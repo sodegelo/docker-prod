@@ -1,0 +1,23 @@
+{
+  "name": "docker-prod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sodegelo/docker-prod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sodegelo/docker-prod/issues"
+  },
+  "homepage": "https://github.com/sodegelo/docker-prod#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
